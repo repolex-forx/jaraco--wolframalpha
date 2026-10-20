@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "wolframalpha",
+  "versions": [
+    {
+      "commit": "1b0207fdd14c48ee7b2cb4b8a9815bc89d3915a6",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:30:15.405445+00:00"
+    }
+  ]
+}
