@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/wolframalpha/commit/1b0207fdd14c48ee7b2cb4b8a9815bc89d3915a6",
       "git:hexsha": "1b0207fdd14c48ee7b2cb4b8a9815bc89d3915a6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/wolframalpha/commit/d2519a3bce08f2cb9c4e4c9cb2b4810b8e5e3e13",
